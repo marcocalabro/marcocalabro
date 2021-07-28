@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..conocer a fondo la utilizacion de  github
 - 🌱 I’m currently learning ... como administrar  varios Proyectos a la vez , con sus versiones.
 - 💞️ I’m looking to collaborate on ...   administrar Proyectos.
-- 📫 How to reach me ...
+- 📫 How to reach me  a traves de maestro04@gmail.com
 
 <!---
 marcocalabro/marcocalabro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
